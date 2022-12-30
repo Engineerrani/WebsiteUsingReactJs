@@ -1,0 +1,181 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200&family=Open+Sans:ital,wght@0,600;1,500&display=swap');
+
+.header {
+    background-image: url('https://static-cse.canva.com/blob/573729/beautifultwitterbanners.jpg');
+    background-size: 100% 100%;
+    height: 100vh;
+    animation: wavy 5s linear infinite;
+
+
+}
+
+@keyframes wavy {
+    0% {
+        background-position: 0;
+    }
+
+    100% {
+        background-position: 122px;
+    }
+}
+
+.logo img {
+    border-radius: 50%;
+    padding: 5px 5px 5px 5px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+
+.logo {
+    flex-direction: row;
+    display: flex;
+    margin-top: 0;
+    text-transform: uppercase;
+
+}
+
+
+.text {
+    padding-top: 28px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.side_nav {
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: row;
+
+}
+
+ul li {
+    justify-content: space-around;
+    list-style-type: none;
+    padding: 6px 10px 0 10px;
+    display: flex;
+    margin-top: -47px;
+}
+
+ul {
+    display: flex;
+    margin-right: 28px;
+    font-size: 20px;
+    font-family: fangsong;
+}
+
+.logo img {
+    border-radius: 50%;
+    padding: 5px 5px 5px 5px;
+    margin-top: 17px;
+}
+
+.bttn {
+    display: flex;
+    margin-right: 184px;
+    font-size: 20px;
+    font-family: fangsong;
+    border-radius: 3px;
+    width: 101px;
+    height: 39px;
+    font-size: 17px;
+    align-items: center;
+    padding-left: 12px;
+    border: none;
+    margin-top: -43px;
+    background-color: black;
+    color: red;
+    font-weight: bold;
+}
+
+.bttn:hover {
+    background-color: red;
+    color: white;
+    transition: 0.5s all ease-in-out;
+}
+
+.middle {
+    justify-content: center;
+    text-align: center;
+    margin-top: 77px;
+    font-size: 120px;
+}
+
+.para {
+    text-align: center;
+    font-size: 35px;
+    color: rgb(102, 5, 5);
+    font-family: cursive;
+    margin: 0 30px 0 20px;
+
+}
+
+.par {
+    text-align: center;
+    font-size: 25px;
+    color: rgb(55, 15, 201);
+    font-family: cursive;
+    margin: 0 30px 0 20px;
+
+}
+
+.bttnn {
+    text-align: center;
+    margin: 0 0 0 605px;
+    width: 154px;
+    height: 53px;
+    border-radius: 5px;
+    font-weight: bold;
+    background-color: #175cdd;
+    font-size: 17px;
+    border: none;
+    color: black;
+    transition: 0.5s all ease-in-out;
+}
+
+.bttnn:hover {
+    background-color: #581845;
+    color: white;
+}
+
+.extra {
+    background-color: rgb(153, 173, 202);
+    flex-direction: row;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+}
+
+.buton {
+    margin: 0 40px 0 40px;
+    align-items: center;
+    border-radius: 24px;
+    width: 73px;
+    height: 25px;
+    text-align: center;
+    font-size: 12px;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    margin-top: 5px;
+}
+
+.pp {
+    margin-bottom: 0rem;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+.container {
+    text-align: center;
+    font-size: 30px;
+    padding-top: 72px;
+    padding-bottom: 72px;
+}

@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.img1 {
+    width: 350px;
+    height: 450px;
+
+
+
+
+}
+
+.img2 {
+    width: 350px;
+    height: 450px;
+
+
+
+}
+
+.img3 {
+    width: 350px;
+    height: 450px;
+
+
+}
+
+.main_div {
+    display: flex;
+    justify-content: space-around;
+    margin: 0 30px;
+}
+
+.head_line {
+    padding: 55px 31px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.p1,
+.p2,
+.p3 {
+    text-align: center;
+    margin-bottom: 1rem;
+}

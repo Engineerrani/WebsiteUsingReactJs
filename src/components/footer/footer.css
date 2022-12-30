@@ -1,0 +1,51 @@
+footer {
+    background-color: #93B5C7;
+    height: 300px;
+    width: 1350px;
+    overflow: auto;
+}
+
+.p12 {
+    font-size: 30px;
+    padding-top: 50px;
+    text-align: center;
+    color: white;
+}
+
+.p13 {
+    font-size: 17px;
+    padding-top: 5px;
+    text-align: center;
+    color: white;
+}
+
+.bttt {
+
+    text-align: center;
+    padding-top: 40px;
+
+
+}
+
+button {
+    width: 12.5%;
+    height: 7.5vh;
+    background-color: #E74C3C;
+    color: white;
+
+
+
+}
+
+button:hover {
+    background-color: #6C3483;
+    transition: 0.5s all ease-in-out;
+    color: black;
+}
+
+.bittu {
+    border-radius: 5px;
+    border: none;
+
+
+}

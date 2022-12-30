@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200&family=Open+Sans:ital,wght@0,600;1,500&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.row {
+    background-color: #1B1858;
+    position: absolute;
+    width: 1360px;
+    height: 630px;
+
+
+}
+
+.my_img {
+    margin-top: 77px;
+}
+
+.img6 {
+    width: 670px;
+    height: 500px;
+}
+
+.p6 {
+    font-size: 30px;
+    font-weight: bold;
+    justify-content: center;
+    text-align: justify;
+    padding: 133px 0 0 50px;
+    letter-spacing: normal;
+    color: white;
+}
+
+.p7 {
+
+    color: blanchedalmond;
+    font-weight: bold;
+    justify-content: center;
+    text-align: justify;
+    padding: 0px 0 0 50px;
+    letter-spacing: normal;
+}
+
+.p8 {
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    justify-content: center;
+    text-align: justify;
+    padding: 0px 0 0 50px;
+    letter-spacing: normal;
+
+}
+
+.p9 {
+    color: hsl(192, 9%, 77%);
+    font-weight: bold;
+    justify-content: center;
+    text-align: justify;
+    padding: 0px 0 0 50px;
+    letter-spacing: normal;
+    font-size: 15px;
+
+}
+
+.p10 {
+
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    justify-content: center;
+    text-align: justify;
+    padding: 0px 0 0 50px;
+    letter-spacing: normal;
+
+}
+
+.p11 {
+    color: hsl(192, 9%, 77%);
+    font-weight: bold;
+    justify-content: center;
+    text-align: justify;
+    padding: 0px 0 0 50px;
+    letter-spacing: normal;
+    font-size: 15px;
+
+}
